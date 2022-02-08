@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Pedro Alexandre Vieira 
 
 
-- 🔭 Hoje estou estudando ADS
+- 🔭 Hoje estou estudando ADS em Fatec
 - 🌱 Estudando Javascript
 - ✔ Em constante evolução
 
