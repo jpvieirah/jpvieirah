@@ -5,11 +5,11 @@
 - 🌱 Estudando Javascript
 - ✔ Em constante evolução
 
-<div  align-items="flex-end">
+<div align-items="flex-end" width="100px" height="100px" display="inline-block">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 </div>
 
-<div display="flex">
+<div display="flex" width="100px" height="100px" display="inline-block">
   
   <a href="https://github.com/jpvieirah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvieirah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
