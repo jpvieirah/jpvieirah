@@ -1,19 +1,26 @@
 ## Olá, eu sou o João Pedro Alexandre Vieira 
 
-
-- 🔭 Hoje estou estudando ADS em Fatec
+<div align="center">
+- 🔭 ADS FATEC
+    </div>
+    <div align="center">
 - 🌱 Estudando Javascript
+   </div>
+  <div align="center">
 - ✔ Em constante evolução
+   </div>
+
+  
 
 <div align-items="flex-end" width="100px" height="100px" display="inline-block">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"/>
 </div>
 
 <div display="flex" width="100px" height="100px" display="inline-block">
   
   <a href="https://github.com/jpvieirah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvieirah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvieirah&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpvieirah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvieirah&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   <div style="display: inline_block" align="center"><br>
