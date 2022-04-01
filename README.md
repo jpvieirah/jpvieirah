@@ -1,14 +1,5 @@
 ## Olá, eu sou o João Pedro Alexandre Vieira 
 
-<div align="center">
-- 🔭 ADS FATEC
-    </div>
-    <div align="center">
-- 🌱 Estudando Javascript
-   </div>
-  <div align="center">
-- ✔ Em constante evolução
-   </div>
 
   
 
